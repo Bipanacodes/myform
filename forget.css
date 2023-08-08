@@ -1,0 +1,19 @@
+body {
+  background-image: url(feogetpw.gif);
+}
+.container {
+  background: transparent;
+  width: 500px;
+  margin-left: 430px;
+  margin-top: 250px;
+  border-left-width: 500px;
+  height: 150px;
+  justify-content: center;
+  box-shadow: 0 5px 50px rgb(17, 20, 200);
+  border-radius: 40px;
+  -webkit-border-radius: 40px;
+  -moz-border-radius: 40px;
+  -ms-border-radius: 40px;
+  -o-border-radius: 40px;
+  padding: 40px;
+}
