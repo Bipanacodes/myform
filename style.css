@@ -20,7 +20,7 @@ body {
   position: relative;
   width: 400px;
   height: 500px;
-  background: red;
+  background: rgb(0, 213, 255);
   box-shadow: 0 0 50px rgb(17, 20, 200);
   border-radius: 20px;
   -webkit-border-radius: 20px;
@@ -65,7 +65,7 @@ body {
   top: 450px;
   left: 0;
 }
-.wrapper .form-wrapper.sign-Un {
+.wrapper .form-wrapper.sign-Up {
   transform: translateY(-450px);
   -webkit-transform: translateY(-450px);
   -moz-transform: translateY(-450px);
@@ -147,7 +147,7 @@ button {
   border: none;
   outline: none;
 }
-.form-wrapper.sign-Un {
+.form-wrapper.sign-Up {
   margin: 10px;
   height: auto;
 }
