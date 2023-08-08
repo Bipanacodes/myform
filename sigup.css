@@ -9,13 +9,13 @@ body {
 }
 .wrapper {
   background: transparent;
-  transparentposition: relative;
+  position: relative;
   width: 400px;
   margin-left: 450px;
   border-left-width: 50px;
   height: 500px;
   justify-content: center;
-  redbox-shadow: 0 0 50px rgb(17, 20, 200);
+  box-shadow: 0 0 50px rgb(17, 20, 200);
   padding: 100px;
   border-radius: 40px;
   -webkit-border-radius: 40px;

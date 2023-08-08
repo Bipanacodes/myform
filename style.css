@@ -20,8 +20,8 @@ body {
   position: relative;
   width: 400px;
   height: 500px;
-  background: ;
-  redbox-shadow: 0 0 50px rgb(17, 20, 200);
+  background: red;
+  box-shadow: 0 0 50px rgb(17, 20, 200);
   border-radius: 20px;
   -webkit-border-radius: 20px;
   -moz-border-radius: 20px;
@@ -140,10 +140,10 @@ button {
   font-weight: 500;
   cursor: pointer;
   border-radius: 30px;
-  -webkit-border-radius: ;
-  -moz-border-radius: ;
-  -ms-border-radius: ;
-  -o-border-radius: ;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
   border: none;
   outline: none;
 }
